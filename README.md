@@ -6,7 +6,7 @@
 | **Frameworks**                                  | ![ASPNet](https://img.shields.io/badge/-ASPNet-3776AB?style=flat-squre&logo=.net&logoColor=purple&labelColor=white&color=white) ![EFCore](https://img.shields.io/badge/-Entity_Framework_Core-3776AB?style=flat-squre&logo=.net&logoColor=purple&labelColor=white&color=white) |
 | **OS**                                          | ![Arch](https://img.shields.io/badge/-arch-3776AB?style=for-the-badge&logo=arch-linux&logoColor=1793D1&color=000000) ![Windows](https://img.shields.io/badge/-windows-3776AB?style=for-the-badge&logo=windows&logoColor=1793D1&color=000000) ![Suse](https://img.shields.io/badge/-opensuse-3776AB?style=for-the-badge&logo=opensuse&logoColor=6FB424&color=000000)|
 | **Database**                                    | ![postgresql](https://img.shields.io/badge/-postgresql-3776AB?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=3E7E7B) ![mysql](https://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff&color=015B85)|
-| **Editor / IDE**                                | ![Neovim](https://img.shields.io/badge/-neovim-3776AB?style=for-the-badge&logo=neovim&logoColor=97C800&color=525252) ![vscode](https://img.shields.io/badge/-neovim-3776AB?style=for-the-badge&logo=neovim&logoColor=green&color=52525)
+| **Editor / IDE**                                | ![Neovim](https://img.shields.io/badge/-neovim-3776AB?style=for-the-badge&logo=neovim&logoColor=97C800&color=525252) ![vscode](https://img.shields.io/badge/-vscode-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=3EA6EB&color=525252)
 
 
 ![](.assets/Bottom_down.svg)

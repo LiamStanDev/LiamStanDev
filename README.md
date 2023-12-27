@@ -1,6 +1,7 @@
 ![](.assets/Bottom_up.svg)
 
 # Hi 👋, I'm Liam!
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamStanDev"></img>
 
 ## 👨‍💻 About Me:
 
@@ -19,6 +20,5 @@ I'm a passionate Full-Stack Engineer with a focus on efficient web development u
 
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamStanDev&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamStanDev"></img>
 
 ![](.assets/Bottom_down.svg)
